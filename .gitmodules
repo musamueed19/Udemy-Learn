@@ -1,0 +1,3 @@
+[submodule "next-auth-udemy"]
+	path = next-auth-udemy
+	url = https://github.com/musamueed19/next-auth-udemy.git
